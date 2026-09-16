@@ -45,3 +45,22 @@ whether it's actually a fit for the role I'm targeting. So I built it.
 ---
 
 ## 🏗️ Architecture
+
+
+## 🧠 What I Learned
+
+Building Resonate meant going beyond tutorials — designing a stateless 
+JWT auth flow from scratch, engineering prompts for consistent structured 
+LLM output, handling multipart file uploads, and debugging real-world 
+integration issues like CORS. It's a small project, but every piece of 
+it is something I built, broke, and fixed myself.
+
+---
+
+## 📄 License
+
+Licensed under the [Apache License 2.0](./LICENSE).
+
+---
+
+*Built by [Kaveri Bhamre](https://github.com/KaveriBhamre)*
